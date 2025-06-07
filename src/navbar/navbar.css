@@ -1,0 +1,18 @@
+.bg-dark{
+    position: sticky;
+    box-shadow: 0 15px 15px black;
+    top: 0;
+    z-index: 1000;
+}
+
+.span{
+    display: inline-block;
+    background-color: #808080;
+    color: white;
+    border-radius: 50%;
+    width: 1.5vw;
+    height: 1.5vw;
+    color: greenyellow;
+    padding-left: 0.45vw;
+    font-size: 1.1vw; 
+}

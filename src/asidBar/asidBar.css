@@ -1,0 +1,29 @@
+.div{
+    width: 30.5vw;
+    height: 3vw;
+    background-color: #808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    /* border-radius: 0.5vw; */
+    padding-top: 1vw;
+    font-size: 1vw;
+    border: 2px solid white;
+}
+.hr{
+    background-color: aliceblue;
+}
+.divMain{
+    width: 30.5vw;
+    height: 3vw;
+    background-color: #808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: greenyellow;
+    /* border-radius: 0.5vw; */
+    padding-top: 1vw;
+    font-size: 1vw;
+
+}
